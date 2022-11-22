@@ -23,3 +23,7 @@
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 Hello/venv/
 Hello/__pycache__/
+JinjaTemplates/__pycache__/
+JinjaTemplates/venv/
+__pycache__/
+*.pyc
